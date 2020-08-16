@@ -5,8 +5,16 @@
 <url> <loc>https://mabalashov.github.io/cv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/posts/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/posts/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/tag/ddd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/mvc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/onion architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/solid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/tag/the clean architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mabalashov.github.io/tag/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/category/development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mabalashov.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
