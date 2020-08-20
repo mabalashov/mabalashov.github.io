@@ -5,8 +5,11 @@
 <url> <loc>https://balashov-mikhail.com/cv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/ddd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/mvc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
