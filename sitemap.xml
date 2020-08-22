@@ -8,16 +8,26 @@
 <url> <loc>https://balashov-mikhail.com/blog/post/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/posts/create-docker-network-for-datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/create-docker-network-for-datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/ddd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/docker swarm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/infrastructure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/mvc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/onion architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/php</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/solid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/the clean architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/ubuntu</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/category/development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/category/recipes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
