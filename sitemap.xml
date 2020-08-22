@@ -4,12 +4,12 @@
 <url> <loc>https://balashov-mikhail.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/cv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://balashov-mikhail.com/posts/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://balashov-mikhail.com/blog/post/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/connect-datadog-apm-to-docker-swarm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/connect-datadog-apm-to-docker-swarm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/create-docker-network-for-datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/create-docker-network-for-datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/posts/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
