@@ -103,23 +103,23 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/bounded-context/page-data.json",
-    "revision": "3baaa530912719dbed3452aa77c0a9a3"
+    "revision": "2fc73778af50378e20e6b97c3d11b0da"
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "3fdd1f0ef7586cb3a629843fe4d405f6"
+    "revision": "2341d5c4e9ef3f5118d2a0e0a524cbf6"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "bd6e0678a5229dc918ed8a6533f3f8d7"
+    "revision": "3896fd0d796ae59dab077dd23e9b9755"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
-    "revision": "716ee69b377e24796fe00f095b235357"
+    "revision": "302bfd4d68d7be496f409ab2653d2bfd"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",
-    "revision": "a8ba28ed0a93e37791ad79f11a320953"
+    "revision": "0eba5a103c335309b8360976a05a86ea"
   },
   {
     "url": "component---src-templates-page-template-js-2e67a5152b3285a2afd5.js"
