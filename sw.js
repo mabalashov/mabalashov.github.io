@@ -115,7 +115,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "9ffe457960be99201279208e8a9eb1e7"
+    "revision": "76029cf77f2cdb7515df32dfc224766c"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
