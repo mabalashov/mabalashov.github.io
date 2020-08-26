@@ -33,11 +33,11 @@ self.__precacheManifest = [
     "url": "framework-a38040c4749cf445737f.js"
   },
   {
-    "url": "app-b433f962f858b39f004f.js"
+    "url": "app-d1173eb960369c776214.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "037fa9dfbef4e07fc4107eef3e6f8124"
+    "revision": "232ebce5c7c244376af0bcf56d36527f"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-e5cb9e0c77a823b86dc2.js"
@@ -59,7 +59,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "105ddbfdfc41f6723e9071209e2e8686"
+    "revision": "0778a03d07813276f0175a0bdcd62717"
   },
   {
     "url": "page-data/sq/d/2052939023.json",
@@ -67,22 +67,22 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/251939775.json",
-    "revision": "07d75aea88e34dd411b0fc1e1d765b21"
+    "revision": "f12570f7a934582161a2bb6b53cc43ce"
   },
   {
     "url": "page-data/sq/d/401334301.json",
-    "revision": "12153cfec3fd480baf276fc81117681e"
+    "revision": "fb66c7a093b909967584f1db431a0986"
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "e8537e0569c460567a6e86039c6e589d"
+    "revision": "6e3692f9a2087f4b8976fd1220961b3d"
   },
   {
     "url": "component---src-templates-categories-list-template-js-e4de52e83278652e27c5.js"
   },
   {
     "url": "page-data/categories/page-data.json",
-    "revision": "889c1f212ff66e624cc8a0df3733c823"
+    "revision": "ea2b329740e911bf0181bbe3fcca9bd5"
   },
   {
     "url": "component---src-templates-cv-template-js-719c7664bda467cd0bc1.js"
@@ -103,30 +103,34 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/bounded-context/page-data.json",
-    "revision": "2fc73778af50378e20e6b97c3d11b0da"
+    "revision": "d4240174c12e8f396031f4fd1b5b5fe4"
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "2341d5c4e9ef3f5118d2a0e0a524cbf6"
+    "revision": "590fc3558edd2af3e208062ad5feb767"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "3896fd0d796ae59dab077dd23e9b9755"
+    "revision": "eaeba5fea671e2f1434d06f51daf4c1a"
+  },
+  {
+    "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
+    "revision": "2ade3e3dd8523c28fedb56e285976e4c"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
-    "revision": "302bfd4d68d7be496f409ab2653d2bfd"
+    "revision": "187415b1671f474881a852447e927633"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",
-    "revision": "0eba5a103c335309b8360976a05a86ea"
+    "revision": "fb24d4593475522416c38866a7a71be0"
   },
   {
     "url": "component---src-templates-page-template-js-2e67a5152b3285a2afd5.js"
   },
   {
     "url": "page-data/pages/as-privacy-policy/page-data.json",
-    "revision": "a2643449b998a308934bf651a2c68e13"
+    "revision": "078bb53817c449eb8d1bb0069d46bce7"
   },
   {
     "url": "manifest.webmanifest",
@@ -222,7 +226,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-b433f962f858b39f004f.js`))) {
+  if (!resources || !(await caches.match(`/app-d1173eb960369c776214.js`))) {
     return await fetch(event.request)
   }
 
