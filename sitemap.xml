@@ -6,6 +6,8 @@
 <url> <loc>https://balashov-mikhail.com/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/bounded-context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/posts/create-gatsby-github-pages-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/create-gatsby-github-pages-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/the-clean-architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,6 +21,9 @@
 <url> <loc>https://balashov-mikhail.com/tag/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/docker swarm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/frontend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/tag/github pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/infrastructure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/mvc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

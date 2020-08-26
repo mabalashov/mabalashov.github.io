@@ -59,7 +59,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "105ddbfdfc41f6723e9071209e2e8686"
+    "revision": "0778a03d07813276f0175a0bdcd62717"
   },
   {
     "url": "page-data/sq/d/2052939023.json",
@@ -67,11 +67,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/251939775.json",
-    "revision": "07d75aea88e34dd411b0fc1e1d765b21"
+    "revision": "f12570f7a934582161a2bb6b53cc43ce"
   },
   {
     "url": "page-data/sq/d/401334301.json",
-    "revision": "12153cfec3fd480baf276fc81117681e"
+    "revision": "fb66c7a093b909967584f1db431a0986"
   },
   {
     "url": "page-data/app-data.json",
@@ -82,7 +82,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/categories/page-data.json",
-    "revision": "889c1f212ff66e624cc8a0df3733c823"
+    "revision": "ea2b329740e911bf0181bbe3fcca9bd5"
   },
   {
     "url": "component---src-templates-cv-template-js-719c7664bda467cd0bc1.js"
@@ -112,6 +112,10 @@ self.__precacheManifest = [
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
     "revision": "3896fd0d796ae59dab077dd23e9b9755"
+  },
+  {
+    "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
+    "revision": "9ffe457960be99201279208e8a9eb1e7"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
