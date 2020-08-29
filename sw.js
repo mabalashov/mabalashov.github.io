@@ -123,7 +123,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
-    "revision": "54ec2730b2f9fdeda4787549efcf5c66"
+    "revision": "3cdc0ba191ca101e19832559fcaa9db3"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
