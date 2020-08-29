@@ -59,7 +59,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "0778a03d07813276f0175a0bdcd62717"
+    "revision": "8425bc3c04976c94741addfe068e9da3"
   },
   {
     "url": "page-data/sq/d/2052939023.json",
@@ -67,11 +67,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/251939775.json",
-    "revision": "f12570f7a934582161a2bb6b53cc43ce"
+    "revision": "09359beb7cd5995dd1c8555585986fad"
   },
   {
     "url": "page-data/sq/d/401334301.json",
-    "revision": "fb66c7a093b909967584f1db431a0986"
+    "revision": "172122e4bc919cfb498bba59453faf4b"
   },
   {
     "url": "page-data/app-data.json",
@@ -82,7 +82,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/categories/page-data.json",
-    "revision": "ea2b329740e911bf0181bbe3fcca9bd5"
+    "revision": "492dcd80ff8678e775d3b1149e5af250"
   },
   {
     "url": "component---src-templates-cv-template-js-719c7664bda467cd0bc1.js"
@@ -107,15 +107,23 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "2341d5c4e9ef3f5118d2a0e0a524cbf6"
+    "revision": "6daac41865c261f3081a116a94fd2c00"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "3896fd0d796ae59dab077dd23e9b9755"
+    "revision": "d628898646ec28bc8f1b2f43b4da4eed"
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
     "revision": "76029cf77f2cdb7515df32dfc224766c"
+  },
+  {
+    "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
+    "revision": "d165a07089497dcc0010884938309e94"
+  },
+  {
+    "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
+    "revision": "54ec2730b2f9fdeda4787549efcf5c66"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
