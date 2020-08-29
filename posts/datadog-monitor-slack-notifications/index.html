@@ -102,12 +102,14 @@
 <p>В каком случае отправлять нотификацию. Укажем <code>Threshold Alert</code> — отправлять при превышении лимита</p>
 <h4 id="define-the-metric" style="position:relative;"><a href="#define-the-metric" aria-label="define the metric permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Define the metric:</h4>
 <p>Какую метрику использовать </p>
-<p>Metric <code>nginx.net.connections</code>
-from {найдём здесь ваш сервер}</p>
+<pre><code>Metric `nginx.net.connections` 
+from {найдём здесь ваш сервер}
+</code></pre>
 <h4 id="set-alert-conditions" style="position:relative;"><a href="#set-alert-conditions" aria-label="set alert conditions permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Set alert conditions:</h4>
 <p>Здесь можно поиграться с настройками, но укажем основное: </p>
-<p>Alert threshold > 450
-Warning threshold > 360</p>
+<pre><code>Alert threshold > 450
+Warning threshold > 360
+</code></pre>
 <h4 id="say-whats-happening" style="position:relative;"><a href="#say-whats-happening" aria-label="say whats happening permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Say what’s happening:</h4>
 <p>Здесь нам необходимо задать шаблон для нотификаций.
 Опишем максимально подробно случившуюся проблему.</p>

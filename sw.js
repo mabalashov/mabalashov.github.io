@@ -119,7 +119,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
-    "revision": "d165a07089497dcc0010884938309e94"
+    "revision": "20c2732323c05264837116e2c27a12cc"
   },
   {
     "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
