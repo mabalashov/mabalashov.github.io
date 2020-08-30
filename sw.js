@@ -115,7 +115,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "ee9a4235f1683bceba1fe951bb180658"
+    "revision": "57be05472d9c1201b7745337de6f083d"
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
