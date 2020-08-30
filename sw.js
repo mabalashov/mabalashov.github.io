@@ -111,11 +111,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "d628898646ec28bc8f1b2f43b4da4eed"
+    "revision": "6a6c61dcbc7d9aba73adeea726256aed"
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "76029cf77f2cdb7515df32dfc224766c"
+    "revision": "ee9a4235f1683bceba1fe951bb180658"
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
