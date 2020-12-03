@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-279cbb8d319f1a2ea4fe.js"
+    "url": "webpack-runtime-4e9da526be39ede7e098.js"
   },
   {
     "url": "framework-a38040c4749cf445737f.js"
@@ -37,7 +37,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "232ebce5c7c244376af0bcf56d36527f"
+    "revision": "84a0f029d8e9bfe73540ca592b85a510"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-e5cb9e0c77a823b86dc2.js"
@@ -46,7 +46,7 @@ self.__precacheManifest = [
     "url": "polyfill-68528c3be76e45e09e78.js"
   },
   {
-    "url": "styles.e65d860aa2df6e930900.css"
+    "url": "styles.22ec855d56f3587fc08b.css"
   },
   {
     "url": "styles-c2fe8482057191dca484.js"
@@ -59,7 +59,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "8425bc3c04976c94741addfe068e9da3"
+    "revision": "776216194542d879c7f3010af506e30e"
   },
   {
     "url": "page-data/sq/d/2052939023.json",
@@ -67,22 +67,22 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/251939775.json",
-    "revision": "09359beb7cd5995dd1c8555585986fad"
+    "revision": "cc5f2a1c4f641eb73a175f25d4dc3b8c"
   },
   {
     "url": "page-data/sq/d/401334301.json",
-    "revision": "172122e4bc919cfb498bba59453faf4b"
+    "revision": "b4863644222b103a28d329170c2531f2"
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "6e3692f9a2087f4b8976fd1220961b3d"
+    "revision": "930a2e9a6e70ed06feff0eeec95d3a65"
   },
   {
     "url": "component---src-templates-categories-list-template-js-e4de52e83278652e27c5.js"
   },
   {
     "url": "page-data/categories/page-data.json",
-    "revision": "492dcd80ff8678e775d3b1149e5af250"
+    "revision": "2ba4f3e8fd0b4e1f2e86ae58ddd1a4b1"
   },
   {
     "url": "component---src-templates-cv-template-js-719c7664bda467cd0bc1.js"
@@ -99,39 +99,43 @@ self.__precacheManifest = [
     "revision": "86aa696998e7c04d0cb298aa4f3f4eb9"
   },
   {
-    "url": "component---src-templates-post-template-js-e06cca6525ca4681cf17.js"
+    "url": "component---src-templates-post-template-js-aaf90dda43d385957012.js"
   },
   {
     "url": "page-data/posts/bounded-context/page-data.json",
-    "revision": "2fc73778af50378e20e6b97c3d11b0da"
+    "revision": "0600db941f3b866719c045a0978cba78"
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "6daac41865c261f3081a116a94fd2c00"
+    "revision": "520b05879e73037d9177dd9540c66e57"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "7a284568d03f3fbcd07d6b1d1126665c"
+    "revision": "fe71d25b70cbb309b1d2777ab3393aec"
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "57be05472d9c1201b7745337de6f083d"
+    "revision": "50afae89db38d2a954209056f14768b4"
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
-    "revision": "f733c74f9803c0af48ae20a747c11939"
+    "revision": "dc1f9c40537f87f1285e6a8bb6dd5ced"
   },
   {
     "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
-    "revision": "3cdc0ba191ca101e19832559fcaa9db3"
+    "revision": "407c5655b76b366ccf72b358a5f8cf1b"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
-    "revision": "302bfd4d68d7be496f409ab2653d2bfd"
+    "revision": "57fe110e58e095dfaa3940fb90f81119"
+  },
+  {
+    "url": "page-data/posts/symfony-messenger-in-laravel/page-data.json",
+    "revision": "c148357078de1dbb58cc4da0e2707fec"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",
-    "revision": "0eba5a103c335309b8360976a05a86ea"
+    "revision": "cdfdb1f2994c0c69c8f4f673aabf97e8"
   },
   {
     "url": "component---src-templates-page-template-js-2e67a5152b3285a2afd5.js"
