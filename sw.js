@@ -103,46 +103,46 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/bounded-context/page-data.json",
-    "revision": "0600db941f3b866719c045a0978cba78"
+    "revision": "44c4f918214e3e8f8d8953d1910c3d5f"
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "520b05879e73037d9177dd9540c66e57"
+    "revision": "630c8a2120cda605e4246df9976a3051"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "fe71d25b70cbb309b1d2777ab3393aec"
+    "revision": "7673ff8b577b54b8c0ee205b4f36935c"
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "50afae89db38d2a954209056f14768b4"
+    "revision": "7dcee0a8d5734b21b751e7528d4bc6ad"
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
-    "revision": "dc1f9c40537f87f1285e6a8bb6dd5ced"
+    "revision": "ca6cf9b60b87614d8fea43997ea8e414"
   },
   {
     "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
-    "revision": "407c5655b76b366ccf72b358a5f8cf1b"
+    "revision": "d172e91e9e589e36d815a1d801c2f56f"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
-    "revision": "57fe110e58e095dfaa3940fb90f81119"
+    "revision": "3afedee66dd7e3748698d316e6c09958"
   },
   {
     "url": "page-data/posts/symfony-messenger-in-laravel/page-data.json",
-    "revision": "c148357078de1dbb58cc4da0e2707fec"
+    "revision": "a20b4f71ffab72cc5e5bd38db67c2d66"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",
-    "revision": "cdfdb1f2994c0c69c8f4f673aabf97e8"
+    "revision": "4ba68a6d46b9375c3dbd2564d9129d7e"
   },
   {
     "url": "component---src-templates-page-template-js-2e67a5152b3285a2afd5.js"
   },
   {
     "url": "page-data/pages/as-privacy-policy/page-data.json",
-    "revision": "a2643449b998a308934bf651a2c68e13"
+    "revision": "43977e85dd3ac90404600685ebabb551"
   },
   {
     "url": "manifest.webmanifest",
