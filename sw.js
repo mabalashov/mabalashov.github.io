@@ -131,7 +131,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/symfony-messenger-in-laravel/page-data.json",
-    "revision": "a20b4f71ffab72cc5e5bd38db67c2d66"
+    "revision": "dc0b53623d06eaaca12459bdb9f2a6b7"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",

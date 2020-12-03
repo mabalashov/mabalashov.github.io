@@ -3,6 +3,8 @@
 <url> <loc>https://balashov-mikhail.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/cv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/posts/symfony-messenger-in-laravel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://balashov-mikhail.com/blog/post/symfony-messenger-in-laravel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/create-gatsby-github-pages-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/create-gatsby-github-pages-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,8 +22,6 @@
 <url> <loc>https://balashov-mikhail.com/blog/post/connect-datadog-apm-to-docker-swarm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/blog/post/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://balashov-mikhail.com/posts/symfony-messenger-in-laravel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://balashov-mikhail.com/blog/post/symfony-messenger-in-laravel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/amqp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://balashov-mikhail.com/tag/datadog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

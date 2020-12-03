@@ -383,10 +383,10 @@ cd /vagrant
 <pre><code class="language-bash">php artisan bus:receive
 </code></pre>
 <p>Во втором — мониторить redis:</p>
-<pre><code class="language-bash">php artisan bus:receive
+<pre><code class="language-bash">redis-cli monitor | grep XADD
 </code></pre>
 <p>В третьем отправим сообщение:</p>
-<pre><code class="language-bash">php artisan bus:receive
+<pre><code class="language-bash">php artisan bus:dispatch
 </code></pre>
 <p>Если увидим что-то подобное, значит мы всё сделали правильно:</p>
 <p><img src="/media/2020-11-29-symfony-messenger-in-laravel/working-example.png" alt="Working Example" title="Working Example"></p>
