@@ -103,50 +103,50 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/bounded-context/page-data.json",
-    "revision": "0600db941f3b866719c045a0978cba78"
+    "revision": "3694ac9b69dbf9d53bad8f09de192e7f"
   },
   {
     "url": "page-data/posts/connect-datadog-apm-to-docker-swarm/page-data.json",
-    "revision": "520b05879e73037d9177dd9540c66e57"
+    "revision": "ddc12d4c657e8fab369e438aa2fbbbfb"
   },
   {
     "url": "page-data/posts/create-docker-network-for-datadog/page-data.json",
-    "revision": "fe71d25b70cbb309b1d2777ab3393aec"
+    "revision": "b31ace2c5679ff3bdeecc62735e0e1f9"
   },
   {
     "url": "page-data/posts/create-gatsby-github-pages-blog/page-data.json",
-    "revision": "50afae89db38d2a954209056f14768b4"
+    "revision": "b0e7aa6b567130d59f25f86f508b9d7f"
   },
   {
     "url": "page-data/posts/datadog-monitor-slack-notifications/page-data.json",
-    "revision": "dc1f9c40537f87f1285e6a8bb6dd5ced"
+    "revision": "ae3c0c12b2e9ab9b8c03522c3360d1e3"
   },
   {
     "url": "page-data/posts/docker-swarm-php-fpm-nginx-metrics/page-data.json",
-    "revision": "407c5655b76b366ccf72b358a5f8cf1b"
+    "revision": "df31ee581a18d09224eb80f29ff987b7"
   },
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
-    "revision": "57fe110e58e095dfaa3940fb90f81119"
+    "revision": "45daabd335c2ab01d919d84821edf327"
   },
   {
     "url": "page-data/posts/mysql-index-typecast-issue/page-data.json",
-    "revision": "bcf74983eaf54456f2a20cac385a7f8e"
+    "revision": "aeaf1183d09dfbca9842c4f3afae1644"
   },
   {
     "url": "page-data/posts/symfony-messenger-in-laravel/page-data.json",
-    "revision": "ad25c7b08215ac8369ea6ef56043ce87"
+    "revision": "385434ce5e8aa38c3fd98288afa66d28"
   },
   {
     "url": "page-data/posts/the-clean-architecture/page-data.json",
-    "revision": "cdfdb1f2994c0c69c8f4f673aabf97e8"
+    "revision": "61542957b4b0ff9b1bd7fa8fb28b29ce"
   },
   {
     "url": "component---src-templates-page-template-js-2e67a5152b3285a2afd5.js"
   },
   {
     "url": "page-data/pages/as-privacy-policy/page-data.json",
-    "revision": "a2643449b998a308934bf651a2c68e13"
+    "revision": "918fcf9610764b3cb2b221fa43e49879"
   },
   {
     "url": "manifest.webmanifest",
