@@ -59,7 +59,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/tags/page-data.json",
-    "revision": "776216194542d879c7f3010af506e30e"
+    "revision": "d04c211a572fe04519901dae15568a78"
   },
   {
     "url": "page-data/sq/d/2052939023.json",
@@ -67,11 +67,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/251939775.json",
-    "revision": "cc5f2a1c4f641eb73a175f25d4dc3b8c"
+    "revision": "f1a558a475ad4e2402ae1414f3ebd0cf"
   },
   {
     "url": "page-data/sq/d/401334301.json",
-    "revision": "b4863644222b103a28d329170c2531f2"
+    "revision": "1f86a3f4e5d9effd0d9772971d695c5b"
   },
   {
     "url": "page-data/app-data.json",
@@ -82,7 +82,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/categories/page-data.json",
-    "revision": "2ba4f3e8fd0b4e1f2e86ae58ddd1a4b1"
+    "revision": "b3dfa4c91efcf3685664f836c9b685ab"
   },
   {
     "url": "component---src-templates-cv-template-js-719c7664bda467cd0bc1.js"
@@ -128,6 +128,10 @@ self.__precacheManifest = [
   {
     "url": "page-data/posts/implementing-solid-and-onion-architecture-nodejs-typescript-and-inversifyjs/page-data.json",
     "revision": "57fe110e58e095dfaa3940fb90f81119"
+  },
+  {
+    "url": "page-data/posts/mysql-index-typecast-issue/page-data.json",
+    "revision": "bcf74983eaf54456f2a20cac385a7f8e"
   },
   {
     "url": "page-data/posts/symfony-messenger-in-laravel/page-data.json",
